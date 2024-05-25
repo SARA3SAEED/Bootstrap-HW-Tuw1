@@ -13,9 +13,10 @@ Navigation is seamless across all pages. Each page includes a consistent navigat
 - **🎨 CSS3**: For styling and layout.
 - **🔧 Bootstrap**: For responsive design and prebuilt components.
 
-## Video Demonstration
+## Video Demo For My Website:
 Watch a video demonstration of the website functionality:
-[Video Demonstration](https://drive.google.com/file/d/1xJSXmZkz83uh2PIhGwV3YeSWw-v-EyTN/view?usp=sharing)
+<video src="https://github.com/SARA3SAEED/Bootstrap-HW-Tuw1/assets/146086114/87121b20-901e-40c7-9303-f84d33c9df43" width="700">
+
 
 ## Learn More
 Learn more about the original website:
